@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
-- 📫 How to reach me via **ahmdthoriq5@gmail.com**
+- 📫 Reach me via **ahmdthoriq5@gmail.com**
 
 - 🌐 Visit my personal website (___**Coming Soon**___)
 
