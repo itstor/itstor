@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhmad Thoriq Afif</h1>
 <h3 align="center">A Developer, Videographer, and Motion Graphics Designer</h3></br>
 
-<img align="right" src="./images/cat.gif" height="300">
+<img align="right" src="./images/cat-min.gif" height="300">
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
