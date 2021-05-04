@@ -13,8 +13,8 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akhmad-thoriq-afif" target="blank"><img align="center" src="./images/linkedin.png" alt="akhmad-thoriq-afif" width="200" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ahmdthoriq_" target="blank"><img align="center" src="./images/instagram.png" alt="ahmdthoriq_"width="200" /></a>
+<a href="https://linkedin.com/in/akhmad-thoriq-afif" target="_blank"><img align="center" src="./images/linkedin.png" alt="akhmad-thoriq-afif" width="200" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ahmdthoriq_" target="_blank"><img align="center" src="./images/instagram.png" alt="ahmdthoriq_"width="200" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
