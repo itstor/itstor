@@ -9,7 +9,7 @@
 
 - 🌐 Visit my personal website (___**Coming Soon**___)
 
-- ⚡ Fun fact **I am an `INTP` person**
+- ⚡ Fun fact **I am an `INTP-A` person**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
