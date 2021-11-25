@@ -22,6 +22,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/adobe/Adobe_Premiere_Pro_Logo.svg" alt="premiere" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/aftereffects.svg" alt="after effect" width="40" height="40"/> </a> 
