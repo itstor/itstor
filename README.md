@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akhmad Thoriq Afif</h1>
-<h3 align="center">A <i>Developer</i>, <i>Videographer</i>, and <i>Motion Graphics Designer</i></h3></br>
 
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="300">
 
