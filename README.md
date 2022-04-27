@@ -26,6 +26,7 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/adobe/Adobe_Premiere_Pro_Logo.svg" alt="premiere" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/aftereffects.svg" alt="after effect" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itstor&show_icons=true&locale=en&theme=nord" alt="itstor" height="170"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstor&show_icons=true&locale=en&layout=compact&theme=nord" alt="itstor" height="170" /></p>
