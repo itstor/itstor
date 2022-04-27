@@ -39,4 +39,6 @@ jobs:
           # Shows the short facts
           SHOW_SHORT_INFO: False
           # Show stats in your own language
+          SHOW_UPDATED_DATE: False
+          SHOW_TOTAL_CODE_TIME: False
           LOCALE: en
