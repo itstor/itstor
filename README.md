@@ -31,8 +31,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itstor&show_icons=true&locale=en&theme=nord" alt="itstor" height="170"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstor&show_icons=true&locale=en&layout=compact&theme=nord" alt="itstor" height="170" /></p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%202%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,6 +44,5 @@ SCSS                     17 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 27/04/2022 07:20:14 UTC
 <!--END_SECTION:waka-->
 
