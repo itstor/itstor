@@ -31,5 +31,21 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itstor&show_icons=true&locale=en&theme=nord" alt="itstor" height="170"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstor&show_icons=true&locale=en&layout=compact&theme=nord" alt="itstor" height="170" /></p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%202%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.9% 
+TeX                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
+SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+SCSS                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
+
+```
+
+
+ Last Updated on 27/04/2022 07:20:14 UTC
 <!--END_SECTION:waka-->
 
