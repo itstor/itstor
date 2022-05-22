@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhmad Thoriq Afif</h1>
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="300">
+<img align="right" src="https://raw.githubusercontent.com/itstor/itstor/main/images/cats.webp">
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
