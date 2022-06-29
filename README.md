@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akhmad Thoriq Afif</h1>
 
-<img align="right" src="https://raw.githubusercontent.com/itstor/itstor/main/images/cats.webp" style="width:40%;">
+<img align="right" src="https://raw.githubusercontent.com/itstor/itstor/main/images/anya.webp" style="width:40%;">
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
 - 📫 Reach me via **ahmdthoriq5@gmail.com**
 
-- 🌐 Visit my personal website (___**Coming Soon**___)
+- 🌐 Visit my personal website (**_**Coming Soon**_**)
 
 - ⚡ Fun fact **I am an `INTP-A` person**
 
@@ -31,16 +31,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itstor&show_icons=true&locale=en&theme=nord" alt="itstor" height="170"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstor&show_icons=true&locale=en&layout=compact&theme=nord" alt="itstor" height="170" /></p>
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Python                   3 hrs 17 mins       ████████████████████████░   95.94% 
+💬 Programming Languages:
+Python                   3 hrs 17 mins       ████████████████████████░   95.94%
 JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
 
 ```
 
+Last Updated on 29/06/2022
 
- Last Updated on 29/06/2022
 <!--END_SECTION:waka-->
-
