@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhmad Thoriq Afif</h1>
 
-<img align="right" src="https://raw.githubusercontent.com/itstor/itstor/main/images/anya.webp" style="width:40%;">
+<img align="right" src="https://c.tenor.com/lpn1paLNvo4AAAAC/anya-forger-anya.gif" style="width:80%;">
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
