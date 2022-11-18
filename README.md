@@ -35,11 +35,10 @@
 
 ```text
 💬 Programming Languages: 
-C                        16 mins             ████████████████████████░   97.01% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/11/2022
+ Last Updated on 18/11/2022
 <!--END_SECTION:waka-->
