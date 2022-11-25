@@ -35,10 +35,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        27 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/11/2022
+ Last Updated on 25/11/2022
 <!--END_SECTION:waka-->
