@@ -4,6 +4,8 @@
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
+- 🪴 Interested in Backend and Android development
+
 - 📫 Reach me via **ahmdthoriq5@gmail.com**
 
 - 🌐 Visit my personal website (**_**Coming Soon**_**)
