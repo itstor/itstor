@@ -4,11 +4,11 @@
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
-- 🪴 Interested in Backend, Web and Flutter development
+- 🪴 Interested in `Backend`, `Web` and `Flutter` development
 
 - 📫 Reach me via **ahmdthoriq5@gmail.com**
 
-- 🌐 Visit my personal website (****Coming Soon****)
+- 🌐 Visit my personal website (**Coming Soon**)
 
 - ⚡ Fun fact **I am an `INTP-A` person**
 
