@@ -8,7 +8,7 @@
 
 - 📫 Reach me via **ahmdthoriq5@gmail.com**
 
-- 🌐 Visit my personal website (**\_**Coming Soon**\_**)
+- 🌐 Visit my personal website (****Coming Soon****)
 
 - ⚡ Fun fact **I am an `INTP-A` person**
 
