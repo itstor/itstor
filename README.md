@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I’m currently studying at **Computer Engineering Institut Teknologi Sepuluh Nopember**
 
-- 🪴 Interested in `Backend`, `Web` and `Flutter` development
+- 🪴 Interested in `Cat`, `Backend`, `Web` and `Flutter`
 
 - 📫 Reach me via **ahmdthoriq5@gmail.com**
 
