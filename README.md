@@ -37,11 +37,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 20 mins        ████████████████████░░░░░   81.42% 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.58%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/10/2023
+ Last Updated on 17/10/2023
 <!--END_SECTION:waka-->
