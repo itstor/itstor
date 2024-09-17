@@ -22,6 +22,7 @@
 </br>
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itstor&show_icons=true&locale=en&theme=nord" alt="itstor" height="170"/>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstor&show_icons=true&locale=en&layout=compact&theme=nord" alt="itstor" height="170" /></p>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -38,3 +39,5 @@ CSV                      8 mins              ░░░░░░░░░░░�
 
  Last Updated on 17/09/2024
 <!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/4ba71e22-70e3-4cc4-87ab-f6d50dc9eee4.svg)](https://wakatime.com/@4ba71e22-70e3-4cc4-87ab-f6d50dc9eee4)
