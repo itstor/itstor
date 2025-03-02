@@ -28,10 +28,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 23 mins             ███████████████░░░░░░░░░░   60.24% 
+Java                     15 mins             ██████████░░░░░░░░░░░░░░░   39.76%
 
 ```
 
 
- Last Updated on 01/03/2025
+ Last Updated on 02/03/2025
 <!--END_SECTION:waka-->
