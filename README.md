@@ -28,10 +28,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████░░░░   85.71% 
+XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
 
- Last Updated on 02/05/2025
+ Last Updated on 03/05/2025
 <!--END_SECTION:waka-->
